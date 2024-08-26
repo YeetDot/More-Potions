@@ -1,0 +1,16 @@
+{
+  "item.minecraft.potion.effect.all_effect": "Potion of Everything",
+  "item.minecraft.splash_potion.effect.all_effect": "Splash Potion of Everything",
+  "item.minecraft.lingering_potion.effect.all_effect": "Lingering Potion of Everything",
+  "item.minecraft.potion.effect.all_effect_long": "Potion of Everything",
+  "item.minecraft.splash_potion.effect.all_effect_long": "Splash Potion of Everything",
+  "item.minecraft.lingering_potion.effect.all_effect_long": "Lingering Potion of Everything",
+  "item.minecraft.potion.effect.creativity": "Potion of Creativity",
+  "item.minecraft.splash_potion.effect.creativity": "Splash Potion of Creativity",
+  "item.minecraft.lingering_potion.effect.creativity": "Lingering Potion of Creativity",
+  "item.minecraft.potion.effect.creativity_long": "Potion of Creativity",
+  "item.minecraft.splash_potion.effect.creativity_long": "Splash Potion of Creativity",
+  "item.minecraft.lingering_potion.effect.creativity_long": "Lingering Potion of Creativity",
+
+  "status_effect.more_potions.creativity": "Creativity"
+}
