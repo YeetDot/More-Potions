@@ -10,6 +10,7 @@ import net.minecraft.util.Identifier;
 public class ModStatusEffects {
 
     public static final RegistryEntry<StatusEffect> CREATIVITY_EFFECT = register("creativity", new CreativityEffect());
+    public static final RegistryEntry<StatusEffect> CERTAIN_DEATH_EFFECT = register("certain_death", new CertainDeathEffect());
 
 
     private static RegistryEntry<StatusEffect> register(String name, StatusEffect effect){

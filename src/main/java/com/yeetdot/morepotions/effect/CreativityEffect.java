@@ -3,7 +3,6 @@ package com.yeetdot.morepotions.effect;
 import net.minecraft.entity.LivingEntity;
 import net.minecraft.entity.effect.StatusEffect;
 import net.minecraft.entity.effect.StatusEffectCategory;
-import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.particle.ParticleTypes;
 import net.minecraft.server.network.ServerPlayerEntity;
 import net.minecraft.world.GameMode;
@@ -23,7 +22,7 @@ public class CreativityEffect extends StatusEffect {
         if (entity instanceof ServerPlayerEntity player && !player.isSpectator()) {
             player.changeGameMode(GameMode.SURVIVAL);
         } else {
-            entity.setInvulnerable(true);
+            entity.setInvulnerable(false);
         }
         return super.applyUpdateEffect(entity, amplifier);
     }

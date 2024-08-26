@@ -11,6 +11,10 @@
   "item.minecraft.potion.effect.creativity_long": "Potion of Creativity",
   "item.minecraft.splash_potion.effect.creativity_long": "Splash Potion of Creativity",
   "item.minecraft.lingering_potion.effect.creativity_long": "Lingering Potion of Creativity",
+  "item.minecraft.potion.effect.certain_death": "Potion of Certain Death",
+  "item.minecraft.splash_potion.effect.certain_death": "Splash Potion of Certain Death",
+  "item.minecraft.lingering_potion.effect.certain_death": "Lingering Potion of Certain Death",
 
-  "status_effect.more_potions.creativity": "Creativity"
+  "effect.morepotions.creativity": "Creativity",
+  "effect.morepotions.certain_death": "Certain Death"
 }
